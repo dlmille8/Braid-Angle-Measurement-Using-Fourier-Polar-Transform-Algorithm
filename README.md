@@ -1,5 +1,6 @@
 # Braid-Angle-Measurement-Using-Fourier-Polar-Transform-Algorithm
 Darren Miller | Class of 2020 at NC State University | iSSRL - Dr. Matthew Bryant
+
 Artificial Muscle Research Project - Grad Students: David K., Nick M., Emily D. 
 
 This image processing program uses a 2-D Fourier Transform and Polar Transform to measure the angle between fibers
@@ -50,7 +51,7 @@ Pressure (psi)
 
 There must be the same number of numerical entries as images, each entry on its own line. So in this case, 6 lines: 1 header with the data label, then five lines of numbers. The first line, containing the data label, will be the x axis label on the plot. 
 
-Github is showing the numerical entries as being double-spaced, but that is incorrect. Each entry should be on seperate lines but not a blank line between.
+Github is showing the entries as being double-spaced, but that is incorrect. Each entry should be on seperate lines but not a blank line between.
 
 There is also an option to show an animation of what is happening during the search vector sweep / scan and what the fan shaped vector 
 looks like. This slows down the program, but is cool and fun.
