@@ -56,4 +56,4 @@ Github is showing the entries as being double-spaced, but that is incorrect. Eac
 There is also an option to show an animation of what is happening during the search vector sweep / scan and what the fan shaped vector 
 looks like. This slows down the program, but is cool and fun.
 
-Email me at dlmille8@ncsu.edu if you have any questions.
+Email me at dlmille8@ncsu.edu or darren.miller.9820@gmail.com if you have any questions.
